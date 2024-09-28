@@ -1,6 +1,6 @@
-#React ToDo App
+# React ToDo App
 
-##Instructions
+## Instructions
 First clone this repository.
 
 $ git clone https://github.com/kabirbaidhya/react-todo-app.git
@@ -11,7 +11,7 @@ Run it
 
 $ npm start # or yarn start
 
-###Steps
+### Steps
 
 Each step is a branch. Check out to the step you want to test.
 
