@@ -1,0 +1,59 @@
+body{
+    background-color:rgb(45, 129, 239);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+}
+.inputcontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.inputcontainer > input{
+    width: 300px;
+    height: 30px;
+    font-size: 1.3rem;
+    border-color:rgb(32, 113, 200);
+    border-width: 3px;
+}
+.inputcontainer > button{
+    margin-top: 13px;
+    width: 65px;
+    height: 25px;
+    border-radius: 15px;
+    background-color: rgb(219, 31, 69);
+    font-size: 1rem;
+    color: white;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+}
+.todo-container{
+    background-color:#F1FAEE;
+    display: flex;
+    width: 500px;
+    font-size: 1.1rem;
+    justify-content: space-between;
+    border-radius: 10px;
+    align-items: center;
+    margin-top: 10px;
+    padding: 0px 5px;
+}
+
+.actions > button{
+    width: 70px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(219, 31, 69);
+    font-size: 1rem;
+    margin-left: 10px;
+    color: white;
+}
+button:hover{
+    font-size:1.09rem ;
+    background-color: rgb(233, 21, 64);
+}
