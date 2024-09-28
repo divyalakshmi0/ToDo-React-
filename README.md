@@ -9,7 +9,7 @@ Install dependencies. Make sure you already have nodejs & npm installed in your 
   $ npm install # or yarn
 Run it
 
-  $ npm start # or yarn start
+  <$ npm start # or yarn start>
 
 ### Steps
 
